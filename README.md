@@ -6,6 +6,7 @@
 
 ![Orlando GitHub stats](https://github-readme-stats.vercel.app/api?username=Orlando-Andre&show_icons=true&theme=tokyonight)
 
+
 ## Tecnologias que eu uso no meu dia
 
 <div style = "display: inline_block"></br>
@@ -14,4 +15,6 @@
 <img align ="center" alt = "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align ="center" alt = "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align ="center" alt = "PostGresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
+</div></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-Andre&hide_progress=true&theme=tokyonight)](https://github.com/Orlando-Andre/github-readme-stats)
