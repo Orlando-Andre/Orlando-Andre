@@ -17,4 +17,6 @@
 <img align ="center" alt = "PostGresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-Andre&hide_progress=true&theme=tokyonight)](https://github.com/Orlando-Andre/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-Andre&hide_progress=true&theme=tokyonight)](https://github.com/Orlando-Andre/github-readme-stats)</br>
+
+ Obrigado! ❤️
