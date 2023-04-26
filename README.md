@@ -32,5 +32,8 @@
   </div>
 </br>
 
+
  Obrigado! ❤️
+ 
+  ![Snake animation](https://github.com/Orlando-Andre/Orlando-Andre/blob/output/github-contribution-grid-snake.svg)
 
