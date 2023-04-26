@@ -6,13 +6,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlando-andr%C3%A9-1a3099229/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamorlandoandre/)
 
-<div>
+<!--<div>
 
 <a href="https://github.com/Orlando-Andre">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Orlando-Andre&show_icons=true&theme=tokyonight"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-Andre&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Orlando-Andre&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando-Andre&layout=compact&theme=tokyonight"/>
 
 </div>
+-->
 
 ## Tecnologias que eu uso no meu dia
 
